@@ -232,5 +232,12 @@
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    }
+ {
+      "id" : "33",
+      "courseName" : "Cybersecurity for everyone",
+      "platform" : "coursera",
+      "courseLink" : "https://www.coursera.org/learn/mcybersecurity-for-everyone",
+      "type" : "free"
+      
+   }, 
 ]
-
